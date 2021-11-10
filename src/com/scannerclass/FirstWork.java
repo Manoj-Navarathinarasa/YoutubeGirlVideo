@@ -17,9 +17,13 @@ public class FirstWork {
 		System.out.print("please enter your Phone number :");
 		String number = scanner.next();
 		
+		System.out.println("Pleaser Enter your adress :");
+		String adress = scanner.next();
+		
 		System.out.println("hi dear :"+name);
 		System.out.println("Your age is :"+age);
 		System.out.println("This is yor moblie number :"+number);
+		System.out.println("this is your adress :"+adress);
 		
 		
 	}
